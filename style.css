@@ -1,8 +1,8 @@
-BODY {color:rgb(1, 55, 161) }
+BODY {color:rgb(7, 27, 166) }
 
-P {color:rgb(1, 55, 161); 
-   font-size:20px;
-   font-family:Courier;
+P {color:rgb(7, 27, 66); 
+   font-size:60px;
+   font-family:'Courier New', Courier, monospace;
    font-weight:bold;
    font-style:italic;
    line-height:30px;
@@ -13,6 +13,3 @@ P {color:rgb(1, 55, 161);
    text-indent:30px;
   }
 
-body {
-   background-image: url(<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/a5/fd/52/a5fd5276-92ce-3acd-46a7-24f27c57f943/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png" alt="Colo-Colo en App Store"/>);
-  }
