@@ -1,0 +1,14 @@
+body {color: rgb(167, 176, 235)}
+
+p {color: rgb(167,176, 235);
+font-size: 60px;
+font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+font-style: italic;
+line-height: 30px;
+letter-spacing: 5px;
+text-decoration: underline;
+text-transform: capitalize;
+text-align: left;
+text-indent: 30px;
+}
