@@ -1,6 +1,6 @@
-BODY {color:rgb(255, 255, 255) }
+BODY {color:#fa8092 }
 
-P {color:rgb(255, 255, 255); 
+P {color:#fa8092; 
    font-size:60px;
    font-family:'Courier New', Courier, monospace;
    font-weight:bold;
@@ -11,5 +11,4 @@ P {color:rgb(255, 255, 255);
    text-transform:capitalize;
    text-align:left;
    text-indent:30px;
-  }
-
+}
