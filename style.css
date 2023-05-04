@@ -1,84 +1,93 @@
-BODY {color:#fa8092 }
+body {color:#fa8092 }
+
 
 body{
-    font-family: sans-serif;
-    margin: 0;
+   font-family: sans-serif;
+   margin: 0;
 }
+
 
 a{
-    text-decoration: none;
-    color: rgb(7, 5, 5);
+   text-decoration: none;
+   color: rgb(7, 5, 5);
 }
+
 
 header{
-    display: flex;
-    min-height: 70px;
-    background-color: #66e3d3;
-    justify-content: space-between;
-    align-items: left;
-    padding: 10px;
+   display: flex;
+   min-height: 70px;
+   background-color: #66e3d3;
+   justify-content: space-between;
+   align-items: left;
+   padding: 10px;
 }
+
 
 .logo{
-    display: flex;
-    align-items: left;
+   display: flex;
+   align-items: left;
 }
 
+
 .logo img{
-    height: 150px;
-    margin-right: 10px;
+   height: 150px;
+   margin-right: 10px;
 }
+
 
 nav a{
 font-weight: 600;
 padding-right: 10px;
 }
 
+
 nav a:hover{
-    color: white;
+   color: white;
 }
 
+
 @media (max-width:700px){
-    header{
-        flex-direction: column;
-    }
+   header{
+       flex-direction: column;
+   }
 }
 .buscar{
-    position: absolute;
-    padding: 5px;
+   position: absolute;
+   padding: 5px;
 }
 .buscar input{
-    width:240px;
-    height: 40px;
-    padding: 0 20px;
-    font-size: 10px;
-    color:#000 ;
-    outline: none;
-    border: 1px solid silver;
-    border-radius: 30px;
-    transition: all 0.6s ease;
+   width:240px;
+   height: 40px;
+   padding: 0 20px;
+   font-size: 10px;
+   color:#000 ;
+   outline: none;
+   border: 1px solid silver;
+   border-radius: 30px;
+   transition: all 0.6s ease;
 }
 .btm{
-    position: absolute;
-    top: 0;
-    right: 0;
-    background: #395bb2;
-    width: 55px;
-    height: 55px;
-    line-height: 55px;
-    text-align: center;
-    color: white;
-    font-size: 20px;
-    border-radius: 50%;
-    cursor: default;
+   position: absolute;
+   top: 0;
+   right: 0;
+   background: #395bb2;
+   width: 55px;
+   height: 55px;
+   line-height: 55px;
+   text-align: center;
+   color: white;
+   font-size: 20px;
+   border-radius: 50%;
+   cursor: default;
 }
 .buscar hover input{
-    width: 240px;
+   width: 240px;
+
 
 }
 .buscar input:focus{
 width: 240px;
 }
 body{
-    background-color: #bacf98 ;
+   background-color: #bacf98 ;
 }
