@@ -1,12 +1,12 @@
 *{
-   margin: 0;
-   padding: 0;
+    margin: 0;
+    padding: 0;
 
 }
 .nav-container{
-   display: flex;
+    display: flex;
 }
 .nav-container ul li{
-   display: flex;
-   justify-content: end;
+    display: flex;
+    justify-content: end;
 }
